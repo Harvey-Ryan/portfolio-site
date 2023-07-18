@@ -162,11 +162,11 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+            "One of Ryan's greatest strengths is his ability to ask insightful and thought-provoking questions. He possesses a curious and inquisitive mind, always seeking to deepen his understanding of the projects at hand. Ryan's questions not only demonstrate his thirst for knowledge but also his commitment to thoroughness and precision. ",
+        name: "Brendan Cordova",
+        designation: "Lead Full Stack Developer",
+        company: "3BX",
+        image: "https://media.licdn.com/dms/image/D5635AQHtojiq94JlsA/profile-framedphoto-shrink_200_200/0/1684962494823?e=1689811200&v=beta&t=p1Eooj8LeEBM2LcxWyIWk4lqE-Kslu1OeB5JDN0oM-U",
     },
     {
         testimonial:
