@@ -71,7 +71,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-            The following projects showcase my journey and the projects I have used to sharpen my skills. Each project has a brief description as well as a link to the code and a live demo.
+            The following projects showcase my journey and the projects I have used to sharpen my skills. Each project has a brief description as well as a link to the code when available.
           </motion.p>
       </div>
       <div className='mt-20 flex flex-wrap gap-7'>

@@ -39,7 +39,6 @@ const About = () => {
       className="mt-4 text-secondary text-[17px] m-w-3xl leading-[30px]"
       >
         I am a web-developer who is constantly seeking out new challenges in this ever-changing field. <br/>
-        With familiarity in both Python and JavaScript I'm currently expanding my skillset to include Java. 
         Let's connect!
     </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
